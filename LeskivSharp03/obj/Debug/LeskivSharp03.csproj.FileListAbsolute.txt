@@ -1,0 +1,15 @@
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\bin\Debug\LeskivSharp02.exe.config
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\bin\Debug\LeskivSharp02.exe
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\bin\Debug\LeskivSharp02.pdb
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\obj\Debug\MainWindow.baml
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\obj\Debug\PersonInfoWindow.baml
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\obj\Debug\MainWindow.g.cs
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\obj\Debug\PersonInfoWindow.g.cs
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\obj\Debug\App.g.cs
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\obj\Debug\LeskivSharp02_MarkupCompile.cache
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\obj\Debug\LeskivSharp02.g.resources
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\obj\Debug\LeskivSharp02.Properties.Resources.resources
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\obj\Debug\LeskivSharp03.csproj.GenerateResource.Cache
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\obj\Debug\LeskivSharp03.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\obj\Debug\LeskivSharp02.exe
+C:\Users\Sasha\VisualStudioProjects\LeskivSharp03\LeskivSharp03\obj\Debug\LeskivSharp02.pdb
